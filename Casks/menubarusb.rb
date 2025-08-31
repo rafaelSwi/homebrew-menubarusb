@@ -1,4 +1,4 @@
-cask "MenuBarUSB" do
+cask "menubarusb" do
   version "1.5"
   sha256 "15859f0a76151b05c8f5f55d6d7567c61443233c17a4f3ae188a8e3468ce1f93"
 
