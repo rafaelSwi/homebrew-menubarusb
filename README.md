@@ -1,6 +1,6 @@
-# RafaelSwi MenuBarUSB
+# RafaelSwi "MenuBarUSB"
 
-## How do I install these formulae?
+## How do I install?
 
 `brew install rafaelswi/menubarusb/<formula>`
 
@@ -12,7 +12,3 @@ Or, in a `brew bundle` `Brewfile`:
 tap "rafaelswi/menubarusb"
 brew "<formula>"
 ```
-
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
