@@ -1,6 +1,6 @@
 cask "menubarusb" do
-  version "1.9"
-  sha256 "528155ba028aad5d42cc93d5a5815212d03539535cd5e66a6489465736986b11"
+  version "2.0"
+  sha256 "a292edd29e9fb0c23842a9f2cff322514416bcaa6f80af15ae033633adadf62c"
 
   url "https://github.com/rafaelSwi/MenuBarUSB/releases/download/v#{version}/MenuBarUSB.zip",
       verified: "github.com/rafaelSwi/MenuBarUSB/"
